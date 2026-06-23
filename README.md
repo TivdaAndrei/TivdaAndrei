@@ -18,7 +18,7 @@ I build tools that bridge the gap between hardware and cognition — from EEG br
 
 ## 🛠️ Tech Stack
 
-**Languages** · Dart · Python · JavaScript · C · HTML/CSS
+**Languages** · Dart · Python · JavaScript · C · HTML/CSS · Java
 
 **Frameworks** · Flutter · Flask · Provider
 
