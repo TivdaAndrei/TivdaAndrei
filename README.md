@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I'm Andrei
 
-<!--
-**TivdaAndrei/TivdaAndrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software developer** working at the intersection of **neuroscience**, **IoT**, and **human-computer interaction**.
 
-Here are some ideas to get you started:
+I build tools that bridge the gap between hardware and cognition — from EEG brain-computer interfaces to cognitive training platforms for therapy. Most of my work involves turning raw sensor data into something meaningful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I'm Working On
+
+🧠 **[NeuroPlay](https://github.com/TivdaAndrei/NeuroPlay)** — Cognitive training platform for therapists and children. Flutter app with interactive mini-games targeting attention, inhibition, working memory, and motor coordination.
+
+⚡ **[Neuroplay-bci](https://github.com/TivdaAndrei/Neuroplay-bci)** — Real-time EEG visualization for BrainLink headsets. Connects directly via Web Serial API, parses the ThinkGear protocol, and renders live brainwave data in the browser.
+
+🏠 **[Hybrid-Cloud-Microcontroller-System](https://github.com/TivdaAndrei/Hybrid-Cloud-Microcontroller-System)** — Modular IoT smart home with AI face recognition, solar energy harvesting, and dual-microcontroller automation. Built with Python, Flask, and Azure Cloud.
+
+## 🛠️ Tech Stack
+
+**Languages** · Dart · Python · JavaScript · C · HTML/CSS
+
+**Frameworks** · Flutter · Flask · Provider
+
+**Hardware & Protocols** · BrainLink EEG · ThinkGear · Arduino · ESP32 · Bluetooth Serial · Web Serial API
+
+**Cloud & Backend** · Azure · Supabase · REST APIs · SMTP
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=TivdaAndrei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=a855f7&text_color=8892a8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TivdaAndrei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=8892a8" height="165" />
+</p>
+
+---
+
+<sub>Building at the edge of software and neuroscience.</sub>
