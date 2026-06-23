@@ -8,9 +8,13 @@ I build tools that bridge the gap between hardware and cognition — from EEG br
 
 🧠 **[NeuroPlay](https://github.com/TivdaAndrei/NeuroPlay)** — Cognitive training platform for therapists and children. Flutter app with interactive mini-games targeting attention, inhibition, working memory, and motor coordination.
 
-⚡ **[Neuroplay-bci](https://github.com/TivdaAndrei/Neuroplay-bci)** — Real-time EEG visualization for BrainLink headsets. Connects directly via Web Serial API, parses the ThinkGear protocol, and renders live brainwave data in the browser.
+🤖 **[PROIECT_POU](https://github.com/TivdaAndrei/PROIECT_POU)** — ROS2 interactive virtual pet with AI voice chat, hand gesture control, and colorful trail visualization. Uses MediaPipe, Ollama LLM, and TurtleBot3 in Gazebo.
 
 🏠 **[Hybrid-Cloud-Microcontroller-System](https://github.com/TivdaAndrei/Hybrid-Cloud-Microcontroller-System)** — Modular IoT smart home with AI face recognition, solar energy harvesting, and dual-microcontroller automation. Built with Python, Flask, and Azure Cloud.
+
+## 🚀 Upcoming
+
+⚡ **[Neuroplay-bci](https://github.com/TivdaAndrei/Neuroplay-bci)** — Real-time EEG visualization for BrainLink headsets. Connects directly via Web Serial API, parses the ThinkGear protocol, and renders live brainwave data in the browser. *Coming soon.*
 
 ## 🛠️ Tech Stack
 
